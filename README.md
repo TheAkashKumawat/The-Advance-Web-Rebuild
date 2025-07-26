@@ -51,11 +51,29 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 
 ## 📸 Screenshots
 
-> _Add screenshots here with markdown!_  
-Example:
-```md
-![Homepage Preview](./screenshots/home.png)
-![Services Page](./screenshots/services.png)
+### 🖼️ About
+![About](./about.png)
+
+### 🖼️ Blogsection 
+![Blogsection ](./screenshots/blogs.png)
+
+### 🖼️ Groupcomp
+![Groupcomp](./screenshots/groupComp.png)
+
+### 🖼️ Home
+![Home](./screenshots/home.png)
+
+### 🖼️ Section 1
+![Section 1](./screenshots/s1.png)
+
+### 🖼️ Section 2
+![Section 2](./screenshots/s2.png)
+
+### 🖼️ Section Ervicesection 
+![Section Ervicesection ](./screenshots/services.png)
+
+### 🖼️ Tesection Ti
+![Tesection Ti](./screenshots/testi.png)
 ```
 
 ---
