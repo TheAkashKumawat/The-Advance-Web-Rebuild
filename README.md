@@ -51,29 +51,30 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 
 ## 📸 Screenshots
 
-### 🖼️ About
-![About](./about.png)
-
-### 🖼️ Blogsection 
-![Blogsection ](./screenshots/blogs.png)
-
-### 🖼️ Groupcomp
-![Groupcomp](./screenshots/groupComp.png)
-
 ### 🖼️ Home
-![Home](./screenshots/home.png)
+![Home Page](./home.png)
 
-### 🖼️ Section 1
-![Section 1](./screenshots/s1.png)
+### 🖼️ About Us 
+![About Us Page](./about.png)
 
-### 🖼️ Section 2
-![Section 2](./screenshots/s2.png)
+### 🖼️ Services
+![Service](./services.png)
 
-### 🖼️ Section Ervicesection 
-![Section Ervicesection ](./screenshots/services.png)
+![Service 1](.s1.png)
 
-### 🖼️ Tesection Ti
-![Tesection Ti](./screenshots/testi.png)
+![Service 2](.s2.png)
+
+### 🖼️ Group Companies
+![Groupcomp](./groupComp.png)
+
+### 🖼️ Blogs Section 
+![Blogs ](./blogs.png)
+
+### 🖼️ Testimonials
+![Testi](.testi.png)
+
+### 🖼️ Contact Us 
+![Contact ](./cont.png)
 ```
 
 ---
