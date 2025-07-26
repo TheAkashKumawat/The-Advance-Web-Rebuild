@@ -60,9 +60,9 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 ### 🖼️ Services
 ![Service](./services.png)
 
-![Service 1](.s1.png)
+![Service 1](./s1.png)
 
-![Service 2](.s2.png)
+![Service 2](./s2.png)
 
 ### 🖼️ Group Companies
 ![Groupcomp](./groupComp.png)
@@ -71,7 +71,7 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 ![Blogs ](./blogs.png)
 
 ### 🖼️ Testimonials
-![Testi](.testi.png)
+![Testi](./testi.png)
 
 ### 🖼️ Contact Us 
 ![Contact ](./cont.png)
