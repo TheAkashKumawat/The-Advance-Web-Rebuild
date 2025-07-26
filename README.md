@@ -75,7 +75,6 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 
 ### 🖼️ Contact Us 
 ![Contact ](./cont.png)
-```
 
 ---
 
@@ -144,4 +143,3 @@ Frontend Developer Intern
 📍 [The Vision House](https://thevisionhouse.in)
 
 > _“Empowering digital vision through clean, scalable design.”_
-
