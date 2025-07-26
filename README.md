@@ -55,7 +55,7 @@ Welcome to **The Advance Web Rebuild** — a fully responsive, modular, and mode
 ![Home Page](./home.png)
 
 ### 🖼️ About Us 
-![About Us Page](./about.png)
+![About Us Page](./aboutUs.png)
 
 ### 🖼️ Services
 ![Service](./services.png)
